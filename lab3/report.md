@@ -5,6 +5,7 @@
 
 ## Структура проєкту
 
+```text
 lab_3/
 ├── src/
 │   ├── __init__.py
@@ -24,6 +25,8 @@ lab_3/
 ├── pytest.ini
 ├── requirements-dev.txt
 └── report.md
+```
+
 
 ## Реалізація TDD-класів та тестів
 ### BankAccount
